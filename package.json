@@ -1,0 +1,17 @@
+{
+  "name": "@glosee/create-npm-initializer-bug-with-scope",
+  "version": "0.0.1",
+  "description": "A dummy initializer to illustrate a potential bug with npm",
+  "main": "index.js",
+  "bin": {
+    "create-npm-initializer-bug-with-scope": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Graham Losee <grahamlosee@gmail.com>",
+  "license": "ISC"
+}
