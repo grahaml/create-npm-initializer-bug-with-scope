@@ -1,6 +1,6 @@
 {
   "name": "@glosee/create-npm-initializer-bug-with-scope",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A dummy initializer to illustrate a potential bug with npm",
   "main": "index.js",
   "bin": {
